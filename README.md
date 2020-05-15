@@ -8,4 +8,4 @@ Estes dados representam uma loja no ramo de E-Commerce e uma comparação de sua
 
 # Sobre o desenvolvimento
 
-Foram utilizados arquivos disponibilizados pelo Kaggle. O código foi desenvolvido em python e apresentado em jupyter notebook!
+Foram utilizados arquivos disponibilizados pelo Kaggle. O código foi desenvolvido em python e apresentado em jupyter notebook.
